@@ -38,7 +38,10 @@ choices on the game
 * art style
 * exact "punting" mechanic
 * how many levels should we do on the "puzzle" version?
-* environment? could use [Processing](https://processing.org/) or [Unity](http://unity3d.com/), as long as it's Java and runs on Android and iOS
+* environment? could use anything as long as it runs on Android and iOS
+  * [OpenFrameworks](http://openframeworks.cc/download/)
+  * [Processing](https://processing.org/) (probably going through [P5Nitro](https://github.com/davidedc/P5Nitro))
+  * [Unity](http://unity3d.com/)
 
 
 
