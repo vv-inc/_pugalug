@@ -50,6 +50,6 @@ random ideas
 ============
 
 * multiplayer "battle" version
-* there can be fire hydrants randomly in the game, and every time the pug crosses one, it will be on it. every time. even mid-air it will stop to pee
+* there can be fire hydrants randomly in the game, and every time the pug crosses one, it will pee on it. every time. even mid-air it will stop to pee
 * the could be an "epic" version where you can crack the brick wall, if you do it good enought you'll break through the wall. ultimately, you should be able to break through several wall, through a building, a mountain, and eventually split the world in half, if you do it right. and if you can do that, then you can even try to launch the punch through earth, and then the moon (if you're skilled), and straight into the sun. sadly, pugs can't break through suns.
 * power ups! flame-throwing pugs!
