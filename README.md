@@ -35,11 +35,11 @@ some inspiration for this
 choices on the game
 ===================
 
-* art style
-  * i'm thinking somewhere between an old-school pixilated deal and some of these
+* art style - i'm thinking somewhere between these type things
     - "foster's home for imaginary friends"
     - "adventure time"
-    - old charles harper illustrations - mainly as in the "golden book of biology"
+    - old charles harper illustrations - mainly as in the ["golden book of biology"](https://www.charleyharperprints.com/articles/golden-book-of-biology/)
+    - [the pink panther](https://www.youtube.com/watch?v=exkjh3eIpe0)
     - [earthbound](https://www.youtube.com/watch?v=R5jNgWdfHIY)
     - [wario land 3](https://www.youtube.com/watch?v=0d6TpGPX2Tg)
 * exact "punting" mechanic
