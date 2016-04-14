@@ -36,6 +36,10 @@ choices on the game
 ===================
 
 * art style
+  * i'm thinking somewhere between an old-school pixilated deal and some of these
+    - "foster's home for imaginary friends"
+    - "adventure time"
+    - old charles harper illustrations - mainly as in the "golden book of biology"
 * exact "punting" mechanic
 * how many levels should we do on the "puzzle" version?
 * environment? could use anything as long as it runs on Android and iOS
