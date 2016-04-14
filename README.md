@@ -40,6 +40,8 @@ choices on the game
     - "foster's home for imaginary friends"
     - "adventure time"
     - old charles harper illustrations - mainly as in the "golden book of biology"
+    - [earthbound](https://www.youtube.com/watch?v=R5jNgWdfHIY)
+    - [wario land 3](https://www.youtube.com/watch?v=0d6TpGPX2Tg)
 * exact "punting" mechanic
 * how many levels should we do on the "puzzle" version?
 * environment? could use anything as long as it runs on Android and iOS
