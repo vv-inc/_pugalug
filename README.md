@@ -3,7 +3,7 @@ _pugalug
 
 there can be three modes?
 
-* "practive" (this is just a pug and a brick wall)
+* "practice" (this is just a pug and a brick wall)
 * "golf" (you will try to get the pug into a hole)
 * "puzzle" (there will various buttons, movable objects, etc, to get past until you get the pug into a particular place)
 
